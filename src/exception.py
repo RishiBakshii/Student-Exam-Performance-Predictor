@@ -1,5 +1,5 @@
 import sys
-from logger import logging
+from src.logger import logging
 
 """
 this will take 2 parameters first is error which we will pass and second parameter will be 
